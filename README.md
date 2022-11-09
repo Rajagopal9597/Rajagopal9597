@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raja gopal 
+- 👋 Hi, I’m Raj 
 - 👀 I’m interested to work as a Mern stack developer
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to contribute to opensource projects
