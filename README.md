@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raj 
-- 👀 I’m interested to work as a Mern stack developer
+- 👀 I’m interested to work as a Full stack developer
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to contribute to opensource projects
 - 📫 How to reach me raj257140@gmail.com / 7411395934
