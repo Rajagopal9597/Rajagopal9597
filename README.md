@@ -2,7 +2,7 @@
 - 👀 I’m interested to work as a Full stack developer
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to contribute to opensource projects
-- 📫 How to reach me raj257140@gmail.com / 7411395934
+- 📫 How to reach me raj257140@gmail.com 
 
 <!---
 Rajagopal9597/Rajagopal9597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
